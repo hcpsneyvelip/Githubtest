@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         
         print("Hello godss")
         
-        let x = 2
+        let x = 4
         print(x+2)
         
         print("Add crazy Clown")
